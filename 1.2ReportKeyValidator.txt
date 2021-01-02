@@ -8,7 +8,6 @@
 - Инструкция по установке IntelliJ IDEA
 - Toolbox App
 - Отчет о тестировании
-- Bug
 - Список "Fake credit card numbers for all major brands" 
 В качестве тестовых данных использовались данные из <https://www.freeformatter.com/credit-card-number-generator-validator.html#fakeNumbers>
 Fake credit card numbers for all major brands.
